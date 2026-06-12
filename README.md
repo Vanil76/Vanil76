@@ -2,7 +2,5 @@
 
 Me chamo Sirvanil Ferreira,
 
-- 🔭 Atualmente trabalho com engenharia clínica na FeSaúde.
-- 🌱 Estudo FrontEnd atualmente no SENAI.
-
-
+- 🔭 Atualmente estudo FrontEnd atualmente no SENAI.
+- 🐟 Também estou estudando sobre aquarismo.
